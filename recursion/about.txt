@@ -1,0 +1,16 @@
+Recursion is nothing, just a technique to solve a problem by function calling
+itself approach.
+
+1. Why function call itself?
+Ans: To shorter the approach to find the sollution.
+
+2. What is the maths behinds the recursion?
+Ans: Recursion uses concept of PMI for solving problem.
+We have to consider the bare minimum condition for every recursion approach.
+
+
+
+Refrences used:
+https://www.geeksforgeeks.org/input-multiple-values-user-one-line-python/
+https://www.geeksforgeeks.org/python-list-comprehension-and-slicing/
+https://www.w3schools.com/python/ref_func_map.asp
