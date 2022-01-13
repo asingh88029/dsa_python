@@ -8,7 +8,8 @@ Ans: To shorter the approach to find the sollution.
 Ans: Recursion uses concept of PMI for solving problem.
 We have to consider the bare minimum condition for every recursion approach.
 
-
+3. How we can increase the recursion depth in python?
+Ans:  It can be increased by sys module method sys.setrecursionlimit 
 
 Refrences used:
 https://www.geeksforgeeks.org/input-multiple-values-user-one-line-python/
