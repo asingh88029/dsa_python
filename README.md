@@ -1,8 +1,11 @@
-Date: 13Jan2022
+Date: 14Jan2022
 
 What's new learnt:
 
-1. Learnt about how to add list members using recursion. We have encountered three different recursion methods.
+1. Learnt how to find number in list using recursion.
+2. Write some better code to know list is sorted or not.
 
 Next:
-12 No Assignment
+Lecture 15
+
+1. https://www.geeksforgeeks.org/ternary-operator-in-python/
