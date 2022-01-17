@@ -1,11 +1,8 @@
-Date: 14Jan2022
+Date: 15Jan2022
 
 What's new learnt:
 
-1. Learnt how to find number in list using recursion.
-2. Write some better code to know list is sorted or not.
+1. Learnt how to find first occurance of number in the list using recursion.
 
 Next:
-Lecture 15
-
-1. https://www.geeksforgeeks.org/ternary-operator-in-python/
+Lecture 17
