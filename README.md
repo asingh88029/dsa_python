@@ -1,8 +1,8 @@
-Date: 27Jan2022
+Date: 28Jan2022
 
 What's new learnt:
 
-1. Programme to implement Binary Search using recursion.
+1. Programme to implement Merge Sort using recursion.
 
 Next:
-merge_sort Problem
+quick_sort Problem
